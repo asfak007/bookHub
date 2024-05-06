@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5df03912-0f0c-4077-9e56-01fd01b7a26e",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401432508i/4099.jpg",
+    "title": "The Pragmatic Programmer: From Journeyman to Master",
+    "author": "Andy Hunt",
+    "description": "Straight from the programming trenches, The Pragmatic Programmer cuts through the increasing specialization and technicalities of modern software development to examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and you'll learn how to",
+    "price": 1000,
+    "rating": 4,
+    "publishDate": "October 20, 1999",
+    "favorite": true,
+    "status": "new"
+  },
+  {
+    "id": "baa3c864-ec38-411c-a499-5313d8d958ff",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436202607i/3735293.jpg",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way.",
+    "price": 2000,
+    "rating": 5,
+    "publishDate": "January 1, 2007",
+    "favorite": false,
+    "status": "trending"
+  },
+  {
+    "id": "b22c921b-1a06-442f-931e-e01da462c73d",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348027904i/85009.jpg",
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma",
+    "description": "Capturing a wealth of experience about the design of object-oriented software, four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems. Previously undocumented, these 23 patterns allow designers to create more flexible, elegant, and ultimately reusable designs without having to rediscover the design solutions themselves.",
+    "price": 800,
+    "rating": 2,
+    "publishDate": "January 1, 1994",
+    "favorite": false,
+    "status": "upcoming"
+  },
+  {
+    "id": "82b543a0-9bd3-4c87-84db-dde510f28a47",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348430512i/13629.jpg",
+    "title": "The Mythical Man-Month: Essays on Software Engineering",
+    "author": "Frederick P. Brooks Jr.",
+    "description": "Few books on software project management have been as influential and timeless as The Mythical Man-Month. With a blend of software engineering facts and thought-provoking opinions, Fred Brooks offers insight for anyone managing complex projects. These essays draw from his experience as project manager for the IBM System/360 computer family and then for OS/360",
+    "price": 1800,
+    "rating": 5,
+    "publishDate": "January 1, 1975",
+    "favorite": false,
+    "status": "upcoming"
+  },
+  {
+    "id": "c438e183-b347-4c24-9f3c-91f582fe1aea",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032527i/43713.jpg",
+    "title": "Structure and Interpretation of Computer Programs",
+    "author": "Harold Abelson",
+    "description": "Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past decade. This long-awaited revision contains changes throughout the text. There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that reflect",
+    "price": 6800,
+    "rating": 5,
+    "publishDate": "March 1, 1984",
+    "favorite": false,
+    "status": "trending"
+  },
+  {
+    "id": "d52ed443-a51c-4691-934f-841480d9cbf1",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032531i/515601.jpg",
+    "title": "The C Programming Language",
+    "author": "Brian W. Kernighan",
+    "description": "This book is meant to help the reader learn how to program in C. It is the definitive reference guide, now in a second edition. Although the first edition was written in 1978, it continues to be a worldwide best-seller. This second edition brings the classic original up to date to include the ANSI standard",
+    "price": 3800,
+    "rating": 5,
+    "publishDate": "January 1, 1978",
+    "favorite": true,
+    "status": "new"
+  }
+]
