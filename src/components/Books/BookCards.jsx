@@ -8,19 +8,21 @@ const BookCards = ({book}) => {
             <div className="col">
                 <div className="card">
                     <img
-                        src="./assets/cover/book-1.jpg"
+                        src={book.img}
                         className="card-img-top"
                         alt="..."
                         style={{width: "100%", height: 300, objectFit: "cover"}}
                     />
                     <div className="card-body">
-                        <h5 className="card-title">Speaking JavaScript</h5>
-                        <p className="card-text">By Sumon barai</p>
-                        <p className="card-text">price $50</p>
-                        <BookReating/>
+                        <h5 title={book.title} className="card-title">{book.title.slice(0,50)}</h5>
+                        <p className="card-text">By {book.author}</p>
+                        <p className="card-text">price ${book.price}</p>
+                        <BookReating rating={book.rating} />
                     </div>
                     <div className="card-footer">
-                        <button type="button" className="btn btn-success">
+                        <button type="button"
+                                className={`btn ${book.favorite ? "btn-secondary" : "btn-success"}`}
+                        >
                             <i className="bi bi-heart"/> Favorite
                         </button>
                         <button type="button" className="btn m-1 btn-success">

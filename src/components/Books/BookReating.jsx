@@ -1,6 +1,7 @@
 import React from 'react';
 
 const BookReating = () => {
+    
     return (
         <>
             <div className="ratting">
