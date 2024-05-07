@@ -7,7 +7,7 @@ const ShortBar = () => {
                 <div className="fs-4">Sort</div>
                 <div>
                     <select className="px-4 py-2 border-2 rounded border-success">
-                        <option disabled="" value="" selected="">
+                        <option disabled="" value="" >
                             None
                         </option>
                         <option value="">Ascending</option>

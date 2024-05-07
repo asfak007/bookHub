@@ -4,7 +4,7 @@ const BookReating = ({rating}) => {
 
     //rating is not a array. transfer it an array and fill it with undefined value by rating value. It like is rating is 4 then the array has 4 undefine value.
     const starCount = new Array(rating).fill(undefined);
-    console.log(rating)
+
 
     return (
         <>

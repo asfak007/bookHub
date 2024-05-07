@@ -18,7 +18,7 @@ const BookCards = ({book}) => {
                         <p className="card-text">By {book.author}</p>
                         <p className="card-text">price ${book.price}</p>
                         <BookReating rating={book.rating} />
-                        
+
                     </div>
                     <div className="card-footer">
                         <button type="button"
