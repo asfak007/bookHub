@@ -1,7 +1,8 @@
 import React from 'react';
 import BookReating from "./BookReating.jsx";
 
-const BookCards = () => {
+const BookCards = ({book}) => {
+
     return (
         <>
             <div className="col">
